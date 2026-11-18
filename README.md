@@ -1020,6 +1020,6 @@ Find them all in [`Kill and hit sound/`](Kill%20and%20hit%20sound).
 
 ## 📌 Others
 
-- **All configs in this repository are collected from the community — none of them are made or owned by me.** Full credit goes to their original creators. This repo just organizes them for easy access.
+- **All configs in this repository only some configs are collected from the community — Most of them are made or owned by me.** Full credit goes to their original creators and me who created most. This repo organizes them for easy access.
 - This pack only works with [Fleasion](https://github.com/fleasion/Fleasion), which performs **client-side only** asset replacement — other players never see your changes. Roblox has stated these modifications aren't officially permitted, so use at your own discretion.
 - Released under the [MIT License](LICENSE).
